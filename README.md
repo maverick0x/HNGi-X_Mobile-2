@@ -1,16 +1,22 @@
-# hngix_task2
+# HNGi-X Task 2
 
-A new Flutter project.
+## Task: Mobile CV Application
+- Develop and design a mobile application serving as a comprehensive CV, showcasing personal and professional details. The app should enable both viewing and editing of the provided CV information.
 
-## Getting Started
+## Preview
+![Main Page Preview](assets/preview_1.png) ![Edit CV Page Preview](assets/preview_2.png)
 
-This project is a starting point for a Flutter application.
+## Testing the App
+1. Go to this [Appetize Link](https://appetize.io/app/r4sfdtjclu2lzrotuyszeh36y4?device=pixel6&osVersion=12.0&scale=100) to access the app.
+2. Select any device that supports _Android 12_ e.g **Pixel 6**.
+3. Set the zoom level to 100 for better viewing.
+4. Select Android 12 or above.
+5. Click on **Tap to Play**.
 
-A few resources to get you started if this is your first Flutter project:
+### Interacting within the App
+- Click on the button on the bottom right corner to edit CV details.
+- Click on any text field you want to edit.
+- Tap outside the textfield or hit enter on your keyboard to stop editing.
+- Click on save to save changes and view changes on the CV page.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+N.B.: If all the fields does not meet the requirement, the changes won't be saved.

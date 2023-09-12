@@ -26,7 +26,7 @@ class DescriptionText extends StatelessWidget {
       child: Text(
         description,
         style: const TextStyle(
-          fontSize: 14,
+          fontSize: 12,
           fontWeight: FontWeight.w300,
           color: Colors.black,
         ),
